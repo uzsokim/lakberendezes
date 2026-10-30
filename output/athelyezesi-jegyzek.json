@@ -1,0 +1,482 @@
+[
+  {
+    "old_path": "output/A-E1-eloter.png",
+    "new_path": "output/eloter/A-E1-provence-etkezo/A-E1-eloter.png",
+    "bytes": 2894560,
+    "sha256": "356DBCD8BAD3018A3AEDAA8101ED2DD1922D4EE52125E5F9CAF9307C6DF14CD7"
+  },
+  {
+    "old_path": "output/A-N1-nappali.png",
+    "new_path": "output/nappali/A-N1-vilagos-egyenes-kanape/A-N1-nappali.png",
+    "bytes": 2522742,
+    "sha256": "95F999098EA05DE3F51C9D76231A5727234DF231FCAC25D652A66A792832A976"
+  },
+  {
+    "old_path": "output/A-valtozat-promptok.md",
+    "new_path": "output/dokumentacio/A-valtozat-promptok.md",
+    "bytes": 3424,
+    "sha256": "B9AD71F98CAD5E8FFE8A83AF9953A2E634F33989545360FF4DC1A5DE338A0F7A"
+  },
+  {
+    "old_path": "output/B-E2-olvasosarok.png",
+    "new_path": "output/eloter/B-E2-kanapes-olvasosarok/B-E2-olvasosarok.png",
+    "bytes": 2594689,
+    "sha256": "1B66DF7983AC5DE47CA8A43ABCC059256E0B6739DE44E17ACACC811E63B77753"
+  },
+  {
+    "old_path": "output/B-N2-nappali-etkezo.png",
+    "new_path": "output/nappali/B-N2-nappali-es-etkezo/B-N2-nappali-etkezo.png",
+    "bytes": 2657986,
+    "sha256": "62E9450D87E1A17BD306B7B521E88A43D59030D484F1B381920CC28E0C188E3B"
+  },
+  {
+    "old_path": "output/BC-valtozat-promptok.md",
+    "new_path": "output/dokumentacio/BC-valtozat-promptok.md",
+    "bytes": 10123,
+    "sha256": "302580F4BA7A97599F11982D91E990371F58D9DFB96D9A3572E5C717250D63C1"
+  },
+  {
+    "old_path": "output/C-E3-bejarat-fele.png",
+    "new_path": "output/eloter/C-E3-etkezo-es-pados-ulosarok/C-E3-bejarat-fele.png",
+    "bytes": 2275857,
+    "sha256": "58BE60D4093CDBED40962F0B3C96BEF4736A5E3C76DD2E32F7A5B00C196681F8"
+  },
+  {
+    "old_path": "output/C-E3-kombinalt-eloter.png",
+    "new_path": "output/eloter/C-E3-etkezo-es-pados-ulosarok/C-E3-kombinalt-eloter.png",
+    "bytes": 2765178,
+    "sha256": "135084D1006AD8BB20CA419C8C2E4566C974BEC3BC8C084DA2B4BBF97E0A82A4"
+  },
+  {
+    "old_path": "output/D-E4-etkezo-olvasosarok.png",
+    "new_path": "output/eloter/D-E4-etkezo-es-kanapes-olvasosarok/D-E4-etkezo-olvasosarok.png",
+    "bytes": 2746492,
+    "sha256": "0468534D4B6A49B6A10CE85A34C12903CDEED50A5541E6AF2F53CB9954C1170B"
+  },
+  {
+    "old_path": "output/D-E4-prompt.md",
+    "new_path": "output/dokumentacio/D-E4-prompt.md",
+    "bytes": 2036,
+    "sha256": "7DA4B7F154F3D4C04B946343AF69AAA32779A3A8139E22238143AE03B5D03802"
+  },
+  {
+    "old_path": "output/D-E5-bejarat-konyhaelvalaszto.png",
+    "new_path": "output/eloter/D-E5-etkezo-ket-antik-fotellel/D-E5-bejarat-konyhaelvalaszto.png",
+    "bytes": 2166219,
+    "sha256": "163452A7062B88B97EC679158A700D6BFD21B915AA802348BCFFBA8410E17ADB"
+  },
+  {
+    "old_path": "output/D-E5-ket-fotellel.png",
+    "new_path": "output/eloter/D-E5-etkezo-ket-antik-fotellel/D-E5-ket-fotellel.png",
+    "bytes": 2648868,
+    "sha256": "FA654571BEC3F4273FBEF00348EEA31F41397DBFAD3FD6475F2F2E748683FA6A"
+  },
+  {
+    "old_path": "output/D-E5-promptok.md",
+    "new_path": "output/dokumentacio/D-E5-promptok.md",
+    "bytes": 5029,
+    "sha256": "3E6EE2F3D7C465B024F2BA2E3147AF3A34F8826485B9F8F8A13DD91468D53766"
+  },
+  {
+    "old_path": "output/D-N3-vilagos-L-sarokkanape.png",
+    "new_path": "output/nappali/D-N3-vilagos-L-kanape/D-N3-vilagos-L-sarokkanape.png",
+    "bytes": 2470521,
+    "sha256": "FF4489E7F8084EFE9DBFC4E2CB17DBE964B425D01DD7F0218A5C3FC45ECEBFF9"
+  },
+  {
+    "old_path": "output/D-N4-eredeti-sarokkanape-osszecsukva.png",
+    "new_path": "output/nappali/D-N4-eredeti-szurke-sarokkanape/D-N4-eredeti-sarokkanape-osszecsukva.png",
+    "bytes": 2281938,
+    "sha256": "AB183F0462BF7DC03DF1283C734281C2F438652849944DCBCF9AFA0644243610"
+  },
+  {
+    "old_path": "output/D-N5-tv-helye-komod.png",
+    "new_path": "output/nappali/D-N5-tv-helyen-dekoralt-komod/D-N5-tv-helye-komod.png",
+    "bytes": 2260300,
+    "sha256": "EC9B3DD589ABE7D56D01D01048AEF5926B4DA8EB5E4A3C755EF099CDCBFA63FD"
+  },
+  {
+    "old_path": "output/D-N6-ablak-fotelek.png",
+    "new_path": "output/nappali/D-N6-ablak-melletti-fotelek/D-N6-ablak-fotelek.png",
+    "bytes": 2579331,
+    "sha256": "7D349919DA0C0357DFCE92C25A79E32AE41A9D04B7801629A376F820BB71437C"
+  },
+  {
+    "old_path": "output/D-N7-ablak-behuzott-feher-fuggony.png",
+    "new_path": "output/nappali/D-N7-behuzott-feher-fuggony/D-N7-ablak-behuzott-feher-fuggony.png",
+    "bytes": 2368122,
+    "sha256": "B8E9C56BAA9D47157EBEC2DAE6C86E460EAFBA78BCCED01F4FAA8DB262B2F553"
+  },
+  {
+    "old_path": "output/D-N7-prompt.md",
+    "new_path": "output/dokumentacio/D-N7-prompt.md",
+    "bytes": 1204,
+    "sha256": "055A14D8A2C1363E95BEF50E61FB64103BC4960761574C4279FE58770E8BE354"
+  },
+  {
+    "old_path": "output/D-N8-elhuzott-fuggony-prompt.md",
+    "new_path": "output/dokumentacio/D-N8-elhuzott-fuggony-prompt.md",
+    "bytes": 1107,
+    "sha256": "EBECCE4E0A34BDE43216C529AFD6FD60001434627273738B571FB985C4E421A1"
+  },
+  {
+    "old_path": "output/D-N8-elhuzott-fuggony.png",
+    "new_path": "output/nappali/D-N8-ablak-fele-forditott-fotelek/D-N8-elhuzott-fuggony.png",
+    "bytes": 2459918,
+    "sha256": "D9C73710349E4F6F3FDED944F72096B69EC50E86A62F4774B64777F0D20907EA"
+  },
+  {
+    "old_path": "output/D-N8-fotelek-napfeny-perszsaszonyeg.png",
+    "new_path": "output/nappali/D-N8-ablak-fele-forditott-fotelek/D-N8-fotelek-napfeny-perszsaszonyeg.png",
+    "bytes": 2343344,
+    "sha256": "8C14693466C43ADE3D3BB417EC9B948F59FCAF58A0135686DAAF745198E2BCAB"
+  },
+  {
+    "old_path": "output/D-N8-N9-promptok.md",
+    "new_path": "output/dokumentacio/D-N8-N9-promptok.md",
+    "bytes": 3747,
+    "sha256": "3C80D3D236F5F68368F69BE328C1948CE3CB9C82B373E042AF08749E94E5DCA1"
+  },
+  {
+    "old_path": "output/D-N9-kanape-puha-szonyeg.png",
+    "new_path": "output/nappali/D-N9-kanape-puha-bezs-szonyeggel/D-N9-kanape-puha-szonyeg.png",
+    "bytes": 2346342,
+    "sha256": "CF61EF0DA6E62490EDDFE57749B09F5C57085BBD266A7790639D12F6E5E531A3"
+  },
+  {
+    "old_path": "output/D-nappali-sarokkanape-promptok.md",
+    "new_path": "output/dokumentacio/D-nappali-sarokkanape-promptok.md",
+    "bytes": 4820,
+    "sha256": "B1999FF2408A6078126BF9186870EAD7B19BBB60C39657611B23C040F4401E6B"
+  },
+  {
+    "old_path": "output/D-nappali-tv-ablak-promptok.md",
+    "new_path": "output/dokumentacio/D-nappali-tv-ablak-promptok.md",
+    "bytes": 5179,
+    "sha256": "E40D8104BF2A422F7A024CAB55EF7B9A20CE1D5FC5E4D82DFE2DA87A888905AF"
+  },
+  {
+    "old_path": "output/H1-1-bezs-ablak.png",
+    "new_path": "output/haloszoba/H1-meleg-bezs/H1-1-bezs-ablak.png",
+    "bytes": 2611967,
+    "sha256": "8BF88B07195D412B8DB9DD7F2CFCEB60EFC3C0D44797441B46AA45F594927A7A"
+  },
+  {
+    "old_path": "output/H1-2-bezs-tarolok.png",
+    "new_path": "output/haloszoba/H1-meleg-bezs/H1-2-bezs-tarolok.png",
+    "bytes": 2517808,
+    "sha256": "07A21F72FA12245B0BA6ADE6B65F0B4AFB8EEA9030DEB703F4165CBBA0FD910E"
+  },
+  {
+    "old_path": "output/H1-3-bezs-agy.png",
+    "new_path": "output/haloszoba/H1-meleg-bezs/H1-3-bezs-agy.png",
+    "bytes": 2497634,
+    "sha256": "E9ADB5848D46245896FD790D42425EA86161BAC73691A195653317EAA44EDB28"
+  },
+  {
+    "old_path": "output/H1-4-bezs-komod.png",
+    "new_path": "output/haloszoba/H1-meleg-bezs/H1-4-bezs-komod.png",
+    "bytes": 2594301,
+    "sha256": "1643294E26A99A9D4946481DF022268D087EF388FDD4C0E53980B7F43FEDB8FF"
+  },
+  {
+    "old_path": "output/H1-5-bezs-agy-ablak.png",
+    "new_path": "output/haloszoba/H1-meleg-bezs/H1-5-bezs-agy-ablak.png",
+    "bytes": 2672938,
+    "sha256": "6D09BAE3AF397B6174AD5FCE709236719E65BFA3B510C5CA372AB665C374F1D5"
+  },
+  {
+    "old_path": "output/H1-H3-haloszoba-promptok.md",
+    "new_path": "output/dokumentacio/H1-H3-haloszoba-promptok.md",
+    "bytes": 70544,
+    "sha256": "2841116D5310BE7211F9898F1239C5786AD6F2B4A3BF7E771B32B4159A1533CC"
+  },
+  {
+    "old_path": "output/H2-1-kekeszold-ablak.png",
+    "new_path": "output/haloszoba/H2-kekeszold-falra-szerelt-tukor/H2-1-kekeszold-ablak.png",
+    "bytes": 2492557,
+    "sha256": "80EF8832115AA0F88BD4BE429B415E2072E297D5E1B22A8BF78DDFCFE8532F39"
+  },
+  {
+    "old_path": "output/H2-2-kekeszold-tarolok.png",
+    "new_path": "output/haloszoba/H2-kekeszold-falra-szerelt-tukor/H2-2-kekeszold-tarolok.png",
+    "bytes": 2431212,
+    "sha256": "FE4928D124F842756237DBDCEC9FA6892BA270C53D5230885551EF9DE80A36F2"
+  },
+  {
+    "old_path": "output/H2-3-kekeszold-agy.png",
+    "new_path": "output/haloszoba/H2-kekeszold-falra-szerelt-tukor/H2-3-kekeszold-agy.png",
+    "bytes": 2437662,
+    "sha256": "A2BBD104A4BEBC3F4C1883AB42CEE75C37ED05FFC4B45F80E1C6AD71342FEEF0"
+  },
+  {
+    "old_path": "output/H2-4-kekeszold-komod.png",
+    "new_path": "output/haloszoba/H2-kekeszold-falra-szerelt-tukor/H2-4-kekeszold-komod.png",
+    "bytes": 2654896,
+    "sha256": "B3079C41749221F997D20C4049A59C7940F4BBBFCCD287A6F46A1F8FDC5F6F4F"
+  },
+  {
+    "old_path": "output/H2-5-kekeszold-agy-ablak.png",
+    "new_path": "output/haloszoba/H2-kekeszold-falra-szerelt-tukor/H2-5-kekeszold-agy-ablak.png",
+    "bytes": 2610936,
+    "sha256": "659158FD8956C13AAC2C59667C3391C8CE671257E16402E3B2FABDD0D825ADEA"
+  },
+  {
+    "old_path": "output/H2C-5-cappuccino-agy-ablak.png",
+    "new_path": "output/haloszoba/H2C-cappuccino-agyfal/H2C-5-cappuccino-agy-ablak.png",
+    "bytes": 2314750,
+    "sha256": "291EECB050C548AF6F68784C00F8A3073941D3F20BA3A20933C8538D33DD8915"
+  },
+  {
+    "old_path": "output/H2T-1-turkiz-ablak.png",
+    "new_path": "output/haloszoba/H2T-pasztell-turkiz-agyfal/H2T-1-turkiz-ablak.png",
+    "bytes": 2301179,
+    "sha256": "AF69C6AB4195417DABFB7FFD9D3FB84A5AA0F589DF4FF24AC2B50DC84A1FCE94"
+  },
+  {
+    "old_path": "output/H2T-2-turkiz-tarolok.png",
+    "new_path": "output/haloszoba/H2T-pasztell-turkiz-agyfal/H2T-2-turkiz-tarolok.png",
+    "bytes": 2247398,
+    "sha256": "1AA9DB42867D09C0BC00991B817612D48E93FEAD6916E3AA2BAFC680C6CC794F"
+  },
+  {
+    "old_path": "output/H2T-3-turkiz-agy.png",
+    "new_path": "output/haloszoba/H2T-pasztell-turkiz-agyfal/H2T-3-turkiz-agy.png",
+    "bytes": 2332864,
+    "sha256": "94497787295F5B9BB3A79BC0E04A3844A0E622A9C4EF3168C51ADBA00D31ACFA"
+  },
+  {
+    "old_path": "output/H2T-4-turkiz-komod.png",
+    "new_path": "output/haloszoba/H2T-pasztell-turkiz-agyfal/H2T-4-turkiz-komod.png",
+    "bytes": 2456030,
+    "sha256": "785BC6CA02459A7027B884439FAF6E1323D4A6A6D89E570F6590D04178A1CFED"
+  },
+  {
+    "old_path": "output/H2T-5-turkiz-agy-ablak.png",
+    "new_path": "output/haloszoba/H2T-pasztell-turkiz-agyfal/H2T-5-turkiz-agy-ablak.png",
+    "bytes": 2463640,
+    "sha256": "A8BE886D38DE572998F0DC1B97C9A8F3CA084D94CCB4B0F5BEBE21CF3826CBE3"
+  },
+  {
+    "old_path": "output/H2T-H2C-promptok.md",
+    "new_path": "output/dokumentacio/H2T-H2C-promptok.md",
+    "bytes": 2870,
+    "sha256": "A0161F8B9D5DE95F811FF01DBD128D97ADB37E809AC75F844AAB7EA65CB691FA"
+  },
+  {
+    "old_path": "output/H3-1-levendula-ablak.png",
+    "new_path": "output/haloszoba/H3-levendula-athelyezett-asztalka/H3-1-levendula-ablak.png",
+    "bytes": 2426089,
+    "sha256": "97B445476F82ED27BB7EF454F95DCDEEE549A13AC8C3B82E4E5B95B18A788DF9"
+  },
+  {
+    "old_path": "output/H3-2-levendula-tarolok.png",
+    "new_path": "output/haloszoba/H3-levendula-athelyezett-asztalka/H3-2-levendula-tarolok.png",
+    "bytes": 2510812,
+    "sha256": "A480CB66CD5130D15EB87FA4FD3DDEFB1D69E6FAD40CE1C2565541468E6EE150"
+  },
+  {
+    "old_path": "output/H3-3-levendula-agy.png",
+    "new_path": "output/haloszoba/H3-levendula-athelyezett-asztalka/H3-3-levendula-agy.png",
+    "bytes": 2456439,
+    "sha256": "0A1EE11BDBA11BF4009A651B635681B9DFC75C5A9028597D8D27891001B129AD"
+  },
+  {
+    "old_path": "output/H3-4-levendula-komod.png",
+    "new_path": "output/haloszoba/H3-levendula-athelyezett-asztalka/H3-4-levendula-komod.png",
+    "bytes": 2623108,
+    "sha256": "7F53A01AEEF5984DBAC8F211F8BC04497823486B43323281853D055DA80A3F88"
+  },
+  {
+    "old_path": "output/H3-5-levendula-agy-ablak.png",
+    "new_path": "output/haloszoba/H3-levendula-athelyezett-asztalka/H3-5-levendula-agy-ablak.png",
+    "bytes": 2518626,
+    "sha256": "E0E86676E84EF46F5A313C79691B0A2D33E659F20D23F3BDAEA36AB244AB7071"
+  },
+  {
+    "old_path": "output/K0-mosogatogep-alap.png",
+    "new_path": "output/konyha/K0-mosogatogep-es-uj-szemetes/K0-mosogatogep-alap.png",
+    "bytes": 2439102,
+    "sha256": "52EA60DAEFB3B6EE8EFE1EEB0AB64880A61F70B17FE3E2EB4E042B2128B7F31C"
+  },
+  {
+    "old_path": "output/K1-greige-munkapult.png",
+    "new_path": "output/konyha/K1-greige-munkapult/K1-greige-munkapult.png",
+    "bytes": 2214619,
+    "sha256": "5C3A3CF9A1FA9623B184ABD803C24ACCC16686A74B2256C8D44F4F0B548C49A5"
+  },
+  {
+    "old_path": "output/K10-turkiz-csempe.png",
+    "new_path": "output/konyha/K10-turkiz-csempe/K10-turkiz-csempe.png",
+    "bytes": 1890654,
+    "sha256": "0260D7FA78A045405C4A9C80AA1593CC8F5034899D82AD10769D3E8E2EC67FFE"
+  },
+  {
+    "old_path": "output/K11-pasztell-turkiz-hosszu-fal.png",
+    "new_path": "output/konyha/K11-pasztell-turkiz-csak-a-hosszu-falon/K11-pasztell-turkiz-hosszu-fal.png",
+    "bytes": 1946547,
+    "sha256": "AE1C8183ED32D4BD52DFA352F09E4851D353C3CE0B7163FCDF76ED0B395AE3EB"
+  },
+  {
+    "old_path": "output/K12-eredeti-csempe-krem-butor-tolgy-pult.png",
+    "new_path": "output/konyha/K12-krem-butor-tolgy-pult-eredeti-csempe/K12-eredeti-csempe-krem-butor-tolgy-pult.png",
+    "bytes": 2105073,
+    "sha256": "D80A97398F633F81A084C3E71D146E57BDC971B5AA0928BA7F27CC521A1E3CA1"
+  },
+  {
+    "old_path": "output/K12-prompt.md",
+    "new_path": "output/dokumentacio/K12-prompt.md",
+    "bytes": 1457,
+    "sha256": "17ACA2B351657B149D082A6288876D5A644C23CB11FA866B986B6150271CE2EE"
+  },
+  {
+    "old_path": "output/K2-natur-tolgy-munkapult.png",
+    "new_path": "output/konyha/K2-natur-tolgy-munkapult/K2-natur-tolgy-munkapult.png",
+    "bytes": 2297067,
+    "sha256": "295190A43ACE16F3F961754294281A2892E920B947F55BDF19DE3D410337BEF0"
+  },
+  {
+    "old_path": "output/K3-homokszinu-fal.png",
+    "new_path": "output/konyha/K3-homokszinu-fal/K3-homokszinu-fal.png",
+    "bytes": 2266862,
+    "sha256": "0F0AE55AE2A49AD6A13EAE0E26BB9C13C62BF51C93FB7043A93BD5FEDC90406B"
+  },
+  {
+    "old_path": "output/K4-zsalyazold-frontok.png",
+    "new_path": "output/konyha/K4-zsalyazold-frontok/K4-zsalyazold-frontok.png",
+    "bytes": 2225105,
+    "sha256": "18549A1017E4E80344A383D5D69B69F364838745F13749FF636EAB399E1F533A"
+  },
+  {
+    "old_path": "output/K5-botanikus-csempefedes.png",
+    "new_path": "output/konyha/K5-botanikus-csempefedes/K5-botanikus-csempefedes.png",
+    "bytes": 2370451,
+    "sha256": "FCDB5852635E2308C775A5455B36A788E358C501EB11654D3897104BD3030CB6"
+  },
+  {
+    "old_path": "output/K6-krem-front-tolgy-zsalya-fal.png",
+    "new_path": "output/konyha/K6-krem-butor-tolgy-pult-zsalya-fal/K6-krem-front-tolgy-zsalya-fal.png",
+    "bytes": 2392266,
+    "sha256": "2333A4C79B247A067D471DDEAE3246D4BD3D244E7D4646BDB78F88F981AC24CE"
+  },
+  {
+    "old_path": "output/K7-A-feher-mosogatogep.png",
+    "new_path": "output/konyha/K7-krem-butor-feher-csempe/K7-A-feher-mosogatogep.png",
+    "bytes": 2280349,
+    "sha256": "1F408FED10AC323D0D0F0264B23C64D76F3E8EB0844417B4971CC21CE3D83DD9"
+  },
+  {
+    "old_path": "output/K7-B-feher-tuzhely.png",
+    "new_path": "output/konyha/K7-krem-butor-feher-csempe/K7-B-feher-tuzhely.png",
+    "bytes": 2118785,
+    "sha256": "12C12FB0407837111088733FEA94CEE23BAE0DAF5AEFB7A233DCA66491E07C3F"
+  },
+  {
+    "old_path": "output/K7-C-feher-ablak.png",
+    "new_path": "output/konyha/K7-krem-butor-feher-csempe/K7-C-feher-ablak.png",
+    "bytes": 2219640,
+    "sha256": "21567E9C3B49B892EA598A887A7E95865E3FBD06C1F821E4F162A754E5EFE3F9"
+  },
+  {
+    "old_path": "output/K7-K11-konyha-promptok.md",
+    "new_path": "output/dokumentacio/K7-K11-konyha-promptok.md",
+    "bytes": 5320,
+    "sha256": "3FBDB5A929AD1E1373E09F77415AFF8E3CEC88130CAB8CDDB160DEF8A1980740"
+  },
+  {
+    "old_path": "output/K8-A-krem-mosogatogep.png",
+    "new_path": "output/konyha/K8-krem-butor-krem-csempe/K8-A-krem-mosogatogep.png",
+    "bytes": 2106740,
+    "sha256": "7030EC9B50EE24AA6018B63C1F547D5B17C198B62B9E4C414F6055B65AE07EB1"
+  },
+  {
+    "old_path": "output/K8-B-krem-tuzhely.png",
+    "new_path": "output/konyha/K8-krem-butor-krem-csempe/K8-B-krem-tuzhely.png",
+    "bytes": 1986817,
+    "sha256": "3DC2D9F922ADF1769010613B008A06DF282B4E05AA2DF5D02CD5D5F03EF28A73"
+  },
+  {
+    "old_path": "output/K8-C-krem-ablak.png",
+    "new_path": "output/konyha/K8-krem-butor-krem-csempe/K8-C-krem-ablak.png",
+    "bytes": 2091812,
+    "sha256": "BB50B504B056B51D74DA7EC0CDC0D6AF3B7572E4CC427406F6C998970450E487"
+  },
+  {
+    "old_path": "output/K9-A-mintas-mosogatogep.png",
+    "new_path": "output/konyha/K9-krem-butor-feher-mintas-csempe/K9-A-mintas-mosogatogep.png",
+    "bytes": 2219905,
+    "sha256": "C19F23B0FFC2AB78D49D01DB65F9BF9C49512062698DDD14AC2E100186B0CB0B"
+  },
+  {
+    "old_path": "output/K9-B-mintas-tuzhely.png",
+    "new_path": "output/konyha/K9-krem-butor-feher-mintas-csempe/K9-B-mintas-tuzhely.png",
+    "bytes": 2111476,
+    "sha256": "4625849B5109272538A5279F04B19FC69927EBC0E0E2FF3B29DD612E79AAC094"
+  },
+  {
+    "old_path": "output/K9-C-mintas-ablak.png",
+    "new_path": "output/konyha/K9-krem-butor-feher-mintas-csempe/K9-C-mintas-ablak.png",
+    "bytes": 2172757,
+    "sha256": "BEA173E71B659CCE33D430566361AE4564BE7DB983B455D3C180534C1F326BB9"
+  },
+  {
+    "old_path": "output/Konyha-valtozatok-promptok.md",
+    "new_path": "output/dokumentacio/Konyha-valtozatok-promptok.md",
+    "bytes": 9155,
+    "sha256": "AFEC95320DAD5042D679B8A709D460193EEE5601677656D6EA01C67566698255"
+  },
+  {
+    "old_path": "output/R1-A-helycsere.png",
+    "new_path": "output/nappali/R1-teljes-helycsere-kis-komoddal/R1-A-helycsere.png",
+    "bytes": 2692611,
+    "sha256": "6033FF383CAAE015F2CD8DC919568468284A145AD2BC1213F2AF15DA60210401"
+  },
+  {
+    "old_path": "output/R1-B-helycsere-ajto.png",
+    "new_path": "output/nappali/R1-teljes-helycsere-kis-komoddal/R1-B-helycsere-ajto.png",
+    "bytes": 2747751,
+    "sha256": "A17729DC64D56F505A426AF228562C82FC2F8632AF38D2256FF90F5397B53F6E"
+  },
+  {
+    "old_path": "output/R1-C-helycsere-ablak.png",
+    "new_path": "output/nappali/R1-teljes-helycsere-kis-komoddal/R1-C-helycsere-ablak.png",
+    "bytes": 2819996,
+    "sha256": "4C23CEBB5788BFE282DA9B9864AE072772B860B97B016FD0E796AE67B67AAF43"
+  },
+  {
+    "old_path": "output/R1-D-helycsere-kanape.png",
+    "new_path": "output/nappali/R1-teljes-helycsere-kis-komoddal/R1-D-helycsere-kanape.png",
+    "bytes": 2743655,
+    "sha256": "DB0FEA142CD4D3ED96ED251297AE874E3AE02AE34D865D577A90C0DD53A2BCE7"
+  },
+  {
+    "old_path": "output/R1-R2-nagyszoba-elrendezesek.md",
+    "new_path": "output/dokumentacio/R1-R2-nagyszoba-elrendezesek.md",
+    "bytes": 35809,
+    "sha256": "8DC636385799FD0BAB133A1EEE32BE8E86F815815D268E10F8370FD1B705ACDE"
+  },
+  {
+    "old_path": "output/R2-A-megosztott-konyvtar.png",
+    "new_path": "output/nappali/R2-megosztott-konyvtar-kis-komoddal/R2-A-megosztott-konyvtar.png",
+    "bytes": 2771941,
+    "sha256": "7958F6D962A4AEC937C60C8891C33BDAD8899492A664CF9A801147550C1DD45F"
+  },
+  {
+    "old_path": "output/R2-B-megosztott-ajto.png",
+    "new_path": "output/nappali/R2-megosztott-konyvtar-kis-komoddal/R2-B-megosztott-ajto.png",
+    "bytes": 2585705,
+    "sha256": "6D696E586D93CC4A583D0BF377BE53AD698D33D9707C0F5AE18EA2DDE58D5829"
+  },
+  {
+    "old_path": "output/R2-C-megosztott-ablak.png",
+    "new_path": "output/nappali/R2-megosztott-konyvtar-kis-komoddal/R2-C-megosztott-ablak.png",
+    "bytes": 2793999,
+    "sha256": "FCF7F953F710FD1084D3F460ED5EF66606C927EB1A7F0CDD563B816C54EF3E48"
+  },
+  {
+    "old_path": "output/R2-D-megosztott-kanape.png",
+    "new_path": "output/nappali/R2-megosztott-konyvtar-kis-komoddal/R2-D-megosztott-kanape.png",
+    "bytes": 2545767,
+    "sha256": "FA7DAAE80182AEAB915449D4E3A1CC68752E7383A4AB12A051858BE137512C5A"
+  }
+]
